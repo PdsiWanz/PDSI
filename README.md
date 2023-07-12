@@ -1,4 +1,4 @@
-# PDSI
+# PDSI.py
 import socket
 import struct
 import codecs,sys
